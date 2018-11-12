@@ -47,3 +47,27 @@ blockquote {
 .quote {
   color: #999;
 }
+
+@media only screen and (min-width: 38em) {
+
+
+
+}
+
+@media only screen and (min-width: 60em) {
+
+
+
+}
+
+@media only screen and (min-width: 90em) {
+
+
+
+}
+
+/*
+- *Typefaces:* `Crimson Text` (regular, italic)
+- *Left/right text padding:* `1rem`
+- *For the best vertical rhythm:* remove the top margins from things & add bottom margins equal to the line-height. [Follow the font-size and margin settings in the screen sizes cheat sheet.](https://learn-the-web.algonquindesign.ca/topics/screen-sizes-cheat-sheet/)
+*/
