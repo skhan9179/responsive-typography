@@ -31,6 +31,10 @@ p {
   margin: 0 0 1.3rem;
 }
 
+article p {
+  font-family: "Crimson Text";
+}
+
 article {
   margin-left: auto;
   margin-right: auto;
